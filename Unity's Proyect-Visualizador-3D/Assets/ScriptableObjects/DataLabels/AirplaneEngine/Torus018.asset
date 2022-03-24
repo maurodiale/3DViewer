@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Torus018
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 4866380607752337564, guid: 5ca1a8251f1f255c693c02c466dee69d, type: 3}
+  geoName: Torus018
+  geoDescription: 
+  geoPosition: {x: 25.696655, y: 0.045599464, z: -18.25125}
+  geoRotation: {x: -2.2737365e-15, y: -0, z: -0, w: 1}

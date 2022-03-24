@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: pistonBolt009
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 3558364193281217571, guid: b376e2dc4b9b59076b025654873b3c38, type: 3}
+  geoName: pistonBolt009
+  geoDescription: 
+  geoPosition: {x: -0.55299175, y: -0.054726962, z: 0.11280714}
+  geoRotation: {x: -0, y: -0, z: 0.44020042, w: 0.89789957}

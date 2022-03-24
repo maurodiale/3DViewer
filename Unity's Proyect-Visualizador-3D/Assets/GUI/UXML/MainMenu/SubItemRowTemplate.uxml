@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/MainMenu/MainMenuv1.uss" />
+    <ui:Button display-tooltip-when-elided="true" name="Row" class="btn_selector">
+        <ui:Button display-tooltip-when-elided="true" name="BtnCurso" style="flex-shrink: 1; flex-grow: 1; flex-direction: row; background-color: rgba(255, 255, 255, 0); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0;">
+            <ui:Label text="Curso&#10;" display-tooltip-when-elided="true" name="Curso" style="padding-left: 10px; font-size: 25px; -unity-font-style: bold; width: 25%; align-items: stretch; -unity-text-align: middle-left; white-space: normal;" />
+            <ui:Label text="Modelo&#10;" display-tooltip-when-elided="true" name="Modelo" style="padding-left: 10px; font-size: 25px; margin-right: 0; -unity-font-style: bold; padding-right: 0; width: 75%; -unity-text-align: middle-left;" />
+        </ui:Button>
+    </ui:Button>
+</ui:UXML>

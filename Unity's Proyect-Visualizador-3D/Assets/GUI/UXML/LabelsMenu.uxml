@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="Screen-Labels" style="flex-grow: 1; flex-direction: row-reverse; display: none; flex-shrink: 0;">
+        <ui:VisualElement name="right-toolbar" style="justify-content: center; flex-grow: 0; visibility: visible; display: flex; overflow: visible;">
+            <ui:VisualElement name="Label-list-container" style="align-items: stretch; margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px;">
+                <ui:Label text="Etiquetas" display-tooltip-when-elided="true" name="Label-title" enable-rich-text="true" style="align-items: flex-end; font-size: 23px; background-color: rgb(41, 41, 41); -unity-text-align: middle-center; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; color: rgb(255, 255, 255); justify-content: flex-start; white-space: nowrap;">
+                    <ui:Button text="X" display-tooltip-when-elided="true" name="Button-Cancel-Labels" style="background-color: rgb(173, 19, 19); color: rgb(255, 255, 255);" />
+                </ui:Label>
+                <ui:ScrollView scroll-deceleration-rate="0,135" elasticity="0,1" name="List-etiquetas" style="width: 325px; height: 250px; background-color: rgba(41, 41, 41, 0.67); border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px; border-left-color: rgb(41, 41, 41); border-right-color: rgb(41, 41, 41); border-top-color: rgb(41, 41, 41); border-bottom-color: rgb(41, 41, 41);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

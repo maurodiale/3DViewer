@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Aorta
+  m_EditorClassIdentifier: 
+  geoID: -12492
+  Model: {fileID: 7256545802983883718, guid: 138fd341b76b9ade4a3f038995c31d48, type: 3}
+  geoName: Aorta
+  geoDescription: asd
+  geoPosition: {x: -2.0663683, y: 30.192871, z: -6.8634715}
+  geoRotation: {x: -0, y: -0, z: -0, w: 1}

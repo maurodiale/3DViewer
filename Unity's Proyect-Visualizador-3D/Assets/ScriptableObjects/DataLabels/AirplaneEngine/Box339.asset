@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Box339
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 7919232700019794314, guid: ba30b1b38155c11ffa5bef46c2c9504e, type: 3}
+  geoName: Box339
+  geoDescription: 
+  geoPosition: {x: 0.11343765, y: 0.08749056, z: -0.05968666}
+  geoRotation: {x: -0.5958764, y: -0.38069835, z: -0.59587646, w: -0.3806985}

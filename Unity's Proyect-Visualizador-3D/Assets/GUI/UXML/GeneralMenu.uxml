@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/GeneralMenu.uss" />
+    <ui:VisualElement name="Screen" style="flex-grow: 1; flex-direction: row; align-items: stretch; justify-content: flex-start;">
+        <ui:VisualElement name="left-toolbar" style="align-items: stretch; justify-content: center;">
+            <ui:VisualElement name="Background-General">
+                <ui:Button text="Labels" display-tooltip-when-elided="true" name="Button-Labels" tooltip="Labels" class="button" />
+                <ui:Button text="Cortes" display-tooltip-when-elided="true" name="Button-Cortes" tooltip="Cortes" class="button" />
+                <ui:Button text="Despiece" display-tooltip-when-elided="true" name="Button-Despiece" tooltip="Despiece" class="button" />
+                <ui:Button text="Animación" display-tooltip-when-elided="true" name="Button-Animacion" tooltip="Animacion" class="button" />
+                <ui:Button text="Reset" display-tooltip-when-elided="true" name="Button-Reset" class="button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

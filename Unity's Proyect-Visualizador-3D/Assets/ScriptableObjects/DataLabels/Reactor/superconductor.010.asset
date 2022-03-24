@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: superconductor.010
+  m_EditorClassIdentifier: 
+  geoID: -210972
+  Model: {fileID: 4631297108597442199, guid: 6d62ffe9c67818fe09e94b40c7256663, type: 3}
+  geoName: Superconductor
+  geoDescription: 
+  geoPosition: {x: -1.2620403, y: 0.983965, z: -0.76409703}
+  geoRotation: {x: -0, y: -0, z: -0, w: 1}

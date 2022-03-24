@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Cylinder1079
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 107561823803733405, guid: c988659a43566ddd094596315014e5e8, type: 3}
+  geoName: Cylinder1079
+  geoDescription: 
+  geoPosition: {x: 26.226597, y: 4.5850816, z: -7.3037887}
+  geoRotation: {x: -2.2737365e-15, y: -0, z: -0, w: 1}

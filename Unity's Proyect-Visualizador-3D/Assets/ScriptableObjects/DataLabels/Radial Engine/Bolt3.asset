@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Bolt3
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 5925110795958968721, guid: b670e0e5fe533836fa5f46e443397cc4, type: 3}
+  geoName: Bolt3
+  geoDescription: 
+  geoPosition: {x: 0.12259903, y: 0.12655386, z: 0.12720151}
+  geoRotation: {x: -0, y: -0, z: 1, w: -6.123234e-17}

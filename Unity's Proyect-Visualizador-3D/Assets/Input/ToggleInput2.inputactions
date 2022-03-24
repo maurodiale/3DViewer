@@ -1,0 +1,33 @@
+{
+    "name": "ToggleInput2",
+    "maps": [
+        {
+            "name": "Switch",
+            "id": "575d658f-db4a-4741-97f8-f898dc3a50c2",
+            "actions": [
+                {
+                    "name": "ShiftToggle",
+                    "type": "Button",
+                    "id": "13f01da6-262d-4958-a677-a9b6ea9e4378",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=1)"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "847e4e5f-54ad-4a38-89f0-7bd4758580d4",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShiftToggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

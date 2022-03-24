@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Ring 1
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 4657841242090221668, guid: c9f19170786d2ef2197f2b30cf20441b, type: 3}
+  geoName: Ring 1
+  geoDescription: 
+  geoPosition: {x: -0.09003512, y: 0.020599432, z: -0.15586428}
+  geoRotation: {x: 0.8660254, y: 3.061617e-17, z: 0.5, w: -5.3028762e-17}

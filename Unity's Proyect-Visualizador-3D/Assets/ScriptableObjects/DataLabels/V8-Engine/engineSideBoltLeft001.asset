@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: engineSideBoltLeft001
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 8221434149539918921, guid: 7726500654d250bdbac530eab4a4705f, type: 3}
+  geoName: engineSideBoltLeft001
+  geoDescription: 
+  geoPosition: {x: -0.6432841, y: -0.2760662, z: -0.28826064}
+  geoRotation: {x: -0, y: -0, z: -0, w: 1}

@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/GroupMenu.uss" />
+    <ui:VisualElement name="Screen-Groups" style="flex-grow: 1; flex-direction: column-reverse; display: none;">
+        <ui:VisualElement name="Bottom-toolbar" style="flex-direction: row; justify-content: center;">
+            <ui:VisualElement name="Background-Groups" style="flex-direction: row; background-color: rgba(0, 0, 0, 0.44); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 1px; border-bottom-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0;">
+                <ui:Button display-tooltip-when-elided="true" name="Button-trasladar" class="button" style="background-image: url(&apos;/Assets/GUI/Iconos/move.png&apos;); width: 50px;" />
+                <ui:Button display-tooltip-when-elided="true" name="Button-rotar" class="button" style="background-image: url(&apos;/Assets/GUI/Iconos/cycle.png&apos;); width: 50px;" />
+                <ui:Button display-tooltip-when-elided="true" name="Button-ocultar" class="button" style="background-image: url(&apos;/Assets/GUI/Iconos/cubes.png&apos;); width: 50px; height: 50px;" />
+                <ui:Button display-tooltip-when-elided="true" name="Button-Cancel-Groups" class="button" style="background-image: url(&apos;/Assets/GUI/Iconos/cancel.png&apos;); width: 50px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

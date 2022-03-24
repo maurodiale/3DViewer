@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6887bc5318013c7008da5238b192a75c, type: 3}
+  m_Name: Nuclear
+  m_EditorClassIdentifier: 
+  ID: 673FAF61-EB73-4A44-83CF-92374D9438A2
+  Name: Nuclear
+  Contenidos:
+  - {fileID: 11400000, guid: 366c6936d83d23b07ab85fe484590e1d, type: 2}
+  Icon: {fileID: 21300000, guid: ef39cf93bd8afa608b8287fc4bf23676, type: 3}

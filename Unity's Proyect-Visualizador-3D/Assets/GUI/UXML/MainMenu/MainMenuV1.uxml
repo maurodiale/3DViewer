@@ -1,0 +1,36 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/MainMenu/MainMenuv1.uss" />
+    <ui:VisualElement name="Container" style="flex-grow: 1; justify-content: flex-start;">
+        <ui:VisualElement name="Header" style="flex-direction: row; justify-content: space-around;">
+            <ui:VisualElement name="title" style="flex-direction: row; justify-content: space-between;">
+                <ui:Label text="Visualizador 3D" display-tooltip-when-elided="true" name="Appname" style="font-size: 100px; -unity-font-style: bold; -unity-text-align: middle-center; color: rgb(113, 110, 110); padding-top: 40px; padding-bottom: 40px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Body" style="flex-grow: 1; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; -unity-background-image-tint-color: rgb(212, 216, 219);">
+            <ui:VisualElement name="Submenu" style="align-items: center; flex-direction: row; justify-content: flex-end; color: rgb(168, 64, 64); padding-top: 10px; padding-bottom: 10px;">
+                <ui:Button text="Cargar" display-tooltip-when-elided="true" name="Cargar" class="btn_celeste" style="height: 52px; width: 130px; background-color: rgb(149, 190, 215); -unity-font-style: bold; font-size: 20px; -unity-text-align: middle-right;">
+                    <ui:VisualElement name="icon" style="background-image: url(&apos;/Assets/GUI/Iconos/open-folder.png&apos;); width: 45px; height: 500px; flex-direction: row; justify-content: flex-start; align-items: flex-start;" />
+                </ui:Button>
+                <ui:Button display-tooltip-when-elided="true" name="Config" style="background-image: url(&apos;/Assets/GUI/Iconos/cog.png&apos;); height: 61px; width: 66px; margin-right: 3px; -unity-text-outline-color: rgba(0, 0, 0, 0); background-color: rgba(255, 255, 255, 0); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; -unity-slice-left: 10; -unity-slice-top: 10; -unity-slice-right: 10; -unity-slice-bottom: 10;" />
+                <ui:Button display-tooltip-when-elided="true" name="Salir" style="background-image: url(&apos;/Assets/GUI/Iconos/exit-door.png&apos;); height: 61px; width: 66px; margin-right: 63px; -unity-text-outline-color: rgba(0, 0, 0, 0); background-color: rgba(255, 255, 255, 0); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; -unity-slice-left: 9; -unity-slice-top: 9; -unity-slice-right: 9; -unity-slice-bottom: 9;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="SubBody" style="flex-direction: row; flex-grow: 1; justify-content: space-around;">
+                <ui:VisualElement name="ItemsTab" style="flex-grow: 1; width: 20%; justify-content: flex-start; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-bottom: 0; height: 100%; flex-wrap: wrap;" />
+                <ui:VisualElement name="Body-contenido" style="flex-grow: 1; width: 80%;">
+                    <ui:VisualElement name="titulo" style="flex-direction: row; flex-grow: 0; height: 10%;">
+                        <ui:Label text="Modelo" display-tooltip-when-elided="true" style="font-size: 20px; color: rgb(173, 176, 176); -unity-font-style: bold; padding-right: 0; -unity-text-align: middle-left; width: 25%; padding-left: 25px;" />
+                        <ui:Label text="Curso" display-tooltip-when-elided="true" style="font-size: 20px; -unity-font-style: bold; -unity-text-align: middle-left; color: rgb(173, 176, 176); padding-left: 15px; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 75%;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="SubItemsTab" style="flex-grow: 1;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Foot" style="flex-direction: row; justify-content: center; align-items: flex-start; margin-bottom: 34px;">
+            <ui:VisualElement name="DevelopedBy" style="flex-direction: row; justify-content: space-between; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 5px; padding-left: 5px; padding-right: 0; padding-top: 5px; padding-bottom: 5px;">
+                <ui:Label text="desarrollado por" display-tooltip-when-elided="true" name="devlopedby" style="justify-content: flex-start; -unity-text-align: middle-center; font-size: 30px; padding-right: 50px;" />
+                <ui:VisualElement name="ib" style="background-image: url(&apos;/Assets/GUI/Iconos/ib_logo.png&apos;); width: 80px; height: 80px; padding-right: 0; margin-right: 7px;" />
+                <ui:VisualElement name="cnea" style="background-image: url(&apos;/Assets/GUI/Iconos/Logo_CNEA.png&apos;); width: 80px; height: 80px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

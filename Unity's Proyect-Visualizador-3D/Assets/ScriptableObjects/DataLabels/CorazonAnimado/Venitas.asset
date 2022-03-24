@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Venitas
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 4277631508998395682, guid: 062746a6205ab4b7a860012d1e38dad5, type: 3}
+  geoName: "Venas card\xEDacas"
+  geoDescription: "Las venas card\xEDacas llevan la sangre pobre en ox\xEDgeno, desde
+    el miocardio hasta la aur\xEDcula derecha. La mayor parte vuelve a trav\xE9s
+    del seno coronario, y alginas directamente."
+  geoPosition: {x: 2.1739795, y: 1.1297128, z: 1.2352971}
+  geoRotation: {x: -0, y: 1, z: -0, w: 0}

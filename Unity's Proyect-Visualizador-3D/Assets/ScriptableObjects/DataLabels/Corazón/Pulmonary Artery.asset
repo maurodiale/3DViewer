@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Pulmonary Artery
+  m_EditorClassIdentifier: 
+  geoID: -2882
+  Model: {fileID: 4406333995290730916, guid: 2f49dd41f44e88ea6aa8fedea6309f1b, type: 3}
+  geoName: Pulmonary Artery
+  geoDescription: Arteria pulmonar
+  geoPosition: {x: -6.250169, y: 35.1875, z: 2.2546158}
+  geoRotation: {x: -0, y: -0, z: -0, w: 1}

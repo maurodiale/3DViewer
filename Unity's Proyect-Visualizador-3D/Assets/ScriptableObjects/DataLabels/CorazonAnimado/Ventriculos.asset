@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Ventriculos
+  m_EditorClassIdentifier: 
+  geoID: -173442
+  Model: {fileID: 5539063788376060441, guid: 2eb948cf572655745b2e80b8d408d71f, type: 3}
+  geoName: Ventriculos
+  geoDescription: "El ventriculo derecho impulsa la sangre no oxigenada hacia los
+    pulmones a trav\xE9s de la arteria pulmonar. Y el ventriculo izquierdo impulsa
+    la sangre oxigenada a trav\xE9s de la arteria aorta para distribuirla por todo
+    el organismo."
+  geoPosition: {x: 0.6247869, y: -0.475698, z: 0.40565345}
+  geoRotation: {x: -0, y: 1, z: -0, w: 0}

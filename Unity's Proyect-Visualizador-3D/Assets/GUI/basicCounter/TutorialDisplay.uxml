@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="visualElement-label" style="width: 50%; height: 50%; top: 25%; right: 25%; bottom: 25%; background-color: rgb(60, 60, 60); align-items: center; justify-content: center; left: 25%;">
+        <ui:Label text="Count: 0" display-tooltip-when-elided="true" name="counter-label" style="width: 25%; height: 25%; font-size: 25px; -unity-text-align: upper-center; padding-bottom: 0; margin-bottom: 25px; color: rgb(0, 0, 0);" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" name="counter-button" style="width: 50%; height: 50%; font-size: 20px; white-space: nowrap; -unity-font-style: bold; -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgb(180, 180, 180); color: rgb(5, 5, 5);" />
+    </ui:VisualElement>
+</ui:UXML>

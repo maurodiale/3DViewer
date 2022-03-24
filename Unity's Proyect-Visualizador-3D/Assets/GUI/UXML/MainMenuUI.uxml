@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/MainMenu.uss" />
+    <ui:VisualElement name="Screen-MainMenu" style="flex-grow: 1;">
+        <ui:VisualElement name="Container-MainMenu" style="flex-grow: 0; left: 25%; right: auto; bottom: auto; top: auto; width: 50%; height: 100%; justify-content: center; background-color: rgba(70, 65, 65, 0.69);">
+            <ui:Label text="Visualizador 3D" display-tooltip-when-elided="true" name="Title-MainMenu" style="-unity-text-align: upper-center; font-size: 21px; margin-bottom: 28px;" />
+            <ui:Button text="Caso de Estudio" display-tooltip-when-elided="true" name="Button-estudio" class="Button" />
+            <ui:Button text="Geometría Corazón" display-tooltip-when-elided="true" name="Button-corazon" class="Button" />
+            <ui:Button text="Radial Engine" display-tooltip-when-elided="true" name="Button-radialengine" class="Button" />
+            <ui:Button text="Corazón Animado" display-tooltip-when-elided="true" name="Button-coranim" class="Button" />
+            <ui:Button text="V8 Engine" display-tooltip-when-elided="true" name="Button-V8engine" class="Button" />
+            <ui:Button text="Reactor de Fusión" display-tooltip-when-elided="true" name="Button-fusionreactor" class="Button" />
+            <ui:Button text="Airplane Engine" display-tooltip-when-elided="true" name="Button-airplane" class="Button" />
+            <ui:Button text="Pruebas" display-tooltip-when-elided="true" name="Button-prueba" class="Button" />
+            <ui:Button text="Salir" display-tooltip-when-elided="true" name="Button-exit" class="Button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

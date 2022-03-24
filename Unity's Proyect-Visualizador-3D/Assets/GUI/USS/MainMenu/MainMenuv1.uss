@@ -1,0 +1,15 @@
+.btn_selector {
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-shrink: 1;
+    flex-grow: 1;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.btn_selector:hover {
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-shrink: 1;
+    flex-grow: 1;
+    background-color: rgba(223, 243, 255, 0.81);
+}

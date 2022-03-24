@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/CortesMenu.uss" />
+    <ui:VisualElement name="Screen-Cortes" style="flex-grow: 1; flex-direction: column; display: none;">
+        <ui:VisualElement name="top-toolbar" style="flex-direction: row; align-items: stretch; justify-content: center;">
+            <ui:VisualElement name="Background-Cortes" style="flex-direction: row; background-color: rgba(0, 0, 0, 0.25); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 1px; border-bottom-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px;">
+                <ui:Button text="Corte 1" display-tooltip-when-elided="true" name="Sagital" class="button" />
+                <ui:Button text="Corte 2" display-tooltip-when-elided="true" name="Coronal" class="button" />
+                <ui:Button text="Corte 3" display-tooltip-when-elided="true" name="Axial" class="button" />
+                <ui:Button text="Cancel" display-tooltip-when-elided="true" name="Cancel-Cortes" class="button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

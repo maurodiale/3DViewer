@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Box164
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 3799287571175213942, guid: 84fb909f83f9181a5962e6e3cc178d83, type: 3}
+  geoName: Box164
+  geoDescription: 
+  geoPosition: {x: 0.29685402, y: 0.12502098, z: -0.16054916}
+  geoRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}

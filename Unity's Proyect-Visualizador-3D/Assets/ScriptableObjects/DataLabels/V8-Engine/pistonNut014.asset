@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: pistonNut014
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 3656290924263126376, guid: b0977e296fc48319eb4d5fa266be2e8c, type: 3}
+  geoName: pistonNut014
+  geoDescription: 
+  geoPosition: {x: 0.40531576, y: -0.4653941, z: 0.42866543}
+  geoRotation: {x: 0.8127107, y: -0.575482, z: -0.000000005260755, w: 0.09122362}

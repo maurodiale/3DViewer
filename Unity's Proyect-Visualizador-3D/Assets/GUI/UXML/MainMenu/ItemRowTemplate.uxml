@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="/Assets/GUI/USS/MainMenu/MainMenuv1.uss" />
+    <ui:VisualElement name="ItemRow" style="justify-content: space-between; height: auto; flex-grow: 1; flex-direction: row; align-items: stretch; background-color: rgb(209, 209, 209);">
+        <ui:Button display-tooltip-when-elided="true" name="BtnEspecialidad" class="btn_selector" style="flex-grow: 1; flex-shrink: 1; flex-direction: row; justify-content: space-around; background-color: rgb(217, 224, 229); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; align-items: center;">
+            <ui:VisualElement name="Icon" style="width: 50px; height: 50px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-right: 20px;" />
+            <ui:Label text="Especialidad" display-tooltip-when-elided="true" name="Especialidad" style="padding-left: 0; font-size: 24px; -unity-text-align: middle-left; -unity-font-style: bold; flex-shrink: 1; flex-grow: 1;" />
+        </ui:Button>
+    </ui:VisualElement>
+</ui:UXML>

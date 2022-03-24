@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2df71c7ae40d1ad6afef1b72fd16f6f, type: 3}
+  m_Name: MotorRadial
+  m_EditorClassIdentifier: 
+  ID: C47C7057-1FBB-41CD-A74F-4E7ED7053B76
+  Name: MotorRadial
+  Curso: Motores
+  descripcion: 
+  contenido_scene:
+  - {fileID: 11400000, guid: 6b82b96bde8d91c51b0e3d2d47260ed6, type: 2}

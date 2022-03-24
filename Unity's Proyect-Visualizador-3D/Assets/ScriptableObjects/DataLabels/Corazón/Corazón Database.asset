@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7702de84cf3b15463bd8ce421b279040, type: 3}
+  m_Name: "Coraz\xF3n Database"
+  m_EditorClassIdentifier: 
+  Database:
+  - {fileID: 11400000, guid: 76eed391f1e4a81b4b174c25aaa9e60f, type: 2}
+  - {fileID: 11400000, guid: d5f26e4d458be3eb8a44c2440433cf84, type: 2}
+  - {fileID: 11400000, guid: 0240f403fdbcb2335b0321b81014b7e3, type: 2}
+  - {fileID: 11400000, guid: cce9c866ab1d98c6a9e7a6b6c668dd0b, type: 2}
+  - {fileID: 11400000, guid: afb929ed881ac896c8e417e1a4f7324f, type: 2}
+  - {fileID: 11400000, guid: 65eb7d076ff41c89cac94f617148a5ec, type: 2}

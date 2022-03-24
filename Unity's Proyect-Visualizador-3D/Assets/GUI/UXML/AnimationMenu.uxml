@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="Screen-Animation" style="flex-grow: 1; display: none;">
+        <ui:VisualElement name="Background-Animation" style="flex-direction: row; justify-content: center; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 1px; border-bottom-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; background-color: rgba(0, 0, 0, 0.52);">
+            <ui:Button display-tooltip-when-elided="true" name="Button-Pause" style="background-image: none; width: 45px; height: 45px; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+            <ui:Button text="Cancel" display-tooltip-when-elided="true" name="Button-Cancel-Animation" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

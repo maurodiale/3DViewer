@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: Box186
+  m_EditorClassIdentifier: 
+  geoID: 0
+  Model: {fileID: 5639398447052435001, guid: a64f3697047364764bb123c32d0dd47c, type: 3}
+  geoName: Box186
+  geoDescription: 
+  geoPosition: {x: 0.29685402, y: 0.18220574, z: 0.0052890778}
+  geoRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}

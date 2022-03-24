@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25099e70c0dc68ed3ab42a051e8cafc4, type: 3}
+  m_Name: PLSVC--osea-im
+  m_EditorClassIdentifier: 
+  geoID: -177462
+  Model: {fileID: 1619170720925204637, guid: afca875bae64af542b7a21ed261833d5, type: 3}
+  geoName: Estructura osea
+  geoDescription: 
+  geoPosition: {x: 0.039265938, y: 0.3017101, z: 0.31622952}
+  geoRotation: {x: -0, y: -0, z: -0, w: 1}

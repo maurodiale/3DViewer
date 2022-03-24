@@ -1,0 +1,39 @@
+{
+    "name": "Toggle",
+    "maps": [
+        {
+            "name": "Switch",
+            "id": "1f0b9003-f043-46f0-aa25-4569a3ad8a23",
+            "actions": [
+                {
+                    "name": "ControlToggle",
+                    "type": "Button",
+                    "id": "e4c5c3dc-85b1-4a65-bbff-e1bf1cace25c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=1)"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "35eda5a5-7bec-419d-ada7-619855391984",
+                    "path": "<Keyboard>/ctrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "keyboard & mouse",
+                    "action": "ControlToggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "keyboard & mouse",
+            "bindingGroup": "keyboard & mouse",
+            "devices": []
+        }
+    ]
+}
